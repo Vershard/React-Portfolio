@@ -3,7 +3,10 @@ import React from 'react'
 const Projects = () => {
     return (
         <div>
-            <h1>hello from project page</h1> 
+           <a href="https://vershard.github.io/Portfolio/" target="_blank" rel="noreferrer noopener">
+   The link to my projects!
+</a>
+
         </div>
     )
 }
